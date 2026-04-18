@@ -4,7 +4,7 @@ This repository contains solutions to two computational physics problems:
 
 🔹 1. Gauss-elimination
 
-A system of linear equations is solved using Gauss-elimination to obtain the solution.
+A system of linear equations are solved using Gauss-elimination to obtain the solution.
 
 🔹 2. Gaussian Pulse Analysis
 
